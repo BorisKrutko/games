@@ -11,5 +11,4 @@
 получает "-балл".
 - Зверята бегают в разных направлениях во избежания столкновений
 
-![image](https://github.com/BorisKrutko/games/assets/120216991/bd77bf2a-cbe1-4c15-86c9-866f64ca8a66)
-
+<img width="235" alt="image" src="https://github.com/BorisKrutko/games/assets/120216991/e6df69b4-cfff-4fe6-8055-dd98b48b4367">
