@@ -13,4 +13,4 @@
 
 После раунда команды меняются местами
 
-![Uploading image.png…]()
+![image](https://github.com/BorisKrutko/games/assets/120216991/71bacf80-089a-404b-b803-e4ec98aa146b)
