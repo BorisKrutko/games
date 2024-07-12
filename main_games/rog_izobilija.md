@@ -9,4 +9,4 @@
 
 - если команда А сумеет запятнать всех игроков команда Б, игра останавливается досрочно
 
-![image](https://github.com/BorisKrutko/games/assets/120216991/6ca38702-88b5-4b03-97ee-aebbd4ff528d)
+![image](https://github.com/user-attachments/assets/94c2d7a9-f0bc-48ac-8ae0-009a31ed405f)
