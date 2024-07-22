@@ -21,5 +21,5 @@
 - Если выбивание происходит от земли, то выбивание не засчитывается.
 - После того, как выбили всех, выходит в площадку капитан.
 
-<img width="214" alt="image" src="https://github.com/user-attachments/assets/bce0b055-57a7-465f-960c-b9064fd0227c">
+<img width="268" alt="image" src="https://github.com/user-attachments/assets/2afe35cf-0225-409e-a594-2ce9ca25a918">
 
