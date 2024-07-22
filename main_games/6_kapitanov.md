@@ -7,4 +7,4 @@
 
 ## Побеждает команда, выбившая всех игроков во главе с главным капитаном. Либо по истечении времени, команда, у которой на поле осталось больше игроков.
 
-![image](https://github.com/user-attachments/assets/9e1e37e4-73e1-4e22-8bd6-b3b5f9a744ab)
+![image](https://github.com/user-attachments/assets/e5528573-6f45-4718-840e-61efcd03258a)
