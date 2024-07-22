@@ -15,4 +15,4 @@
 1. вводится 2 мяча
 2. если игрок ловит мяч с лету, выходит по очереди один из игроков, которого выбили
 
-![image](https://github.com/user-attachments/assets/7c41fb5a-fbc7-4a80-8441-4f4d19794568)
+<img width="438" alt="image" src="https://github.com/user-attachments/assets/b78e681d-b50c-4dbb-88a4-518f8f659072">
