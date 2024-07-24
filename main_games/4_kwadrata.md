@@ -16,4 +16,4 @@
 2. если игрок ловит мяч с лету, выходит по очереди один из игроков, которого выбили
 
 
-![image](https://github.com/user-attachments/assets/a355f0b4-3bcd-419a-9247-0afe4d0c6e82)
+<img width="347" alt="image" src="https://github.com/user-attachments/assets/4134a254-c492-4337-8a34-71d3c680b321">
