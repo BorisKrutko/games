@@ -1,4 +1,7 @@
 # 4 квадрата
+
+<img width="347" alt="image" src="https://github.com/user-attachments/assets/4134a254-c492-4337-8a34-71d3c680b321">
+
 ```
 ⚙ Необходимо: веревки, мячи, платки, свисток
 ```
@@ -15,5 +18,3 @@
 1. вводится 2 мяча
 2. если игрок ловит мяч с лету, выходит по очереди один из игроков, которого выбили
 
-
-<img width="347" alt="image" src="https://github.com/user-attachments/assets/4134a254-c492-4337-8a34-71d3c680b321">
