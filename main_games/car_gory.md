@@ -1,4 +1,7 @@
 # Царь горы
+
+<img width="333" alt="image" src="https://github.com/user-attachments/assets/7d4da707-75a4-4d78-b409-879e1e3b6f0e">
+
 ```
 ⚙ Необходимо: 2 мяча, флажки, веревки
 ```
