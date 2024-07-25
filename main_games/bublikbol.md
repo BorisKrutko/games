@@ -1,6 +1,6 @@
 # БУБЛИКБОЛ
 
-![image](https://github.com/user-attachments/assets/b6ba1f05-9005-4c86-9ab2-e7169422ead0)
+<img width="328" alt="image" src="https://github.com/user-attachments/assets/9ebb481a-0de5-4f1d-9fda-5817ef460ec2">
 
 ## 2 команды делятся по парам, в каждой команде выбирается капитан (может быть и 2 человека)
 
