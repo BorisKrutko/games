@@ -1,4 +1,7 @@
 # 4 базы бейсбол
+
+<img width="359" alt="image" src="https://github.com/user-attachments/assets/c596ef81-5550-44e2-9dc0-36d43cfd0230">
+
 ```
 ⚙ Необходимо: флажки, верёвки, мяч.
 ```
@@ -6,4 +9,3 @@
 
 ## Цель игры: заработать как можно больше очков (команда получает очко, когда игрок из команды пробегает полный круг)
 
-![image](https://github.com/BorisKrutko/games/assets/120216991/d9d8355e-eef9-4aeb-9894-1892b72d9d4f)
