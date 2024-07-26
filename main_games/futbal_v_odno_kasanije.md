@@ -1,4 +1,7 @@
 # футбол в одно касание
+
+<img width="384" alt="image" src="https://github.com/user-attachments/assets/85887c73-1b1d-4b49-9ece-624c921eceb7">
+
 ```
 ⚙ Необходимо: мяч, флажки
 ```
