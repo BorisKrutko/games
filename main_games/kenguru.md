@@ -1,4 +1,8 @@
 # Кенгуру
+
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/617e0b6e-cff4-4246-83fe-ee4a897b9b7b">
+
+
 ```
 ⚙ Небходимо: свисток, веревки
 ```
