@@ -1,4 +1,7 @@
 # Гандбол
+
+<img width="384" alt="image" src="https://github.com/user-attachments/assets/cacf6cdf-b60e-42bd-bfc3-40e1336365ba">
+
 ```
 ⚙ Необходимо: мяч, свисток
 ```
