@@ -1,4 +1,8 @@
 # Два флага
+
+<img width="384" alt="image" src="https://github.com/user-attachments/assets/d70e5044-754e-49e9-9b42-89ffb0b4f3d1">
+
+
 ```
 ⚙ Необходимо: верёвки, свисток, флаги для команд
 ```
