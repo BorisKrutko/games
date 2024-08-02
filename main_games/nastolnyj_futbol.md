@@ -1,4 +1,8 @@
 # настольный футбол
+
+<img width="413" alt="image" src="https://github.com/user-attachments/assets/6b7992b8-a837-4533-af84-a4462d02bd07">
+
+
 ```
 ⚙ Необходимо: таблица, метки, мяч, флажки 2-х цветов
 ```
