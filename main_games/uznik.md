@@ -1,4 +1,8 @@
 # узник
+
+<img width="424" alt="image" src="https://github.com/user-attachments/assets/e09b8c29-e7f6-4e95-9471-64de19d7ea50">
+
+
 ```
 ⚙ Необходимо: платочки 2-х цветов
 ```
