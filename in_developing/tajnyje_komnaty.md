@@ -1,4 +1,4 @@
-# тайные коматы
+# тайные коматы 🏛
 
 ![image](https://github.com/user-attachments/assets/67c486c8-f7e5-4c0a-b09c-34f7083ac629)
 
