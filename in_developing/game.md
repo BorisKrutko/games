@@ -1,7 +1,6 @@
 # Два флага
 
-<img width="384" alt="image" src="https://github.com/user-attachments/assets/d70e5044-754e-49e9-9b42-89ffb0b4f3d1">
-
+![image](https://github.com/user-attachments/assets/ab242b5e-65b9-489b-b781-0e464882db3c)
 
 ```
 ⚙ Необходимо: верёвки, свисток, 2 волейбольных мяча, флаги для команд, флажок на палке
