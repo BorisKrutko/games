@@ -1,5 +1,6 @@
 # беседа
 
+![image](https://github.com/user-attachments/assets/6c4b352d-2493-4da3-a625-5aca88e96364)
 
 ```
 ⚙ Необходимо: площадка деревянная, верёвки, конусы, платки
