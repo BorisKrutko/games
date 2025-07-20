@@ -1,4 +1,7 @@
 # Итальянские 2 капитана (от Андреа)
+
+<img width="807" height="448" alt="image" src="https://github.com/user-attachments/assets/809343f6-bbbf-49e9-a655-0dd1d862fa4c" />
+
 ```
 ⚙ Необходимо: веревки и обручи, флажки 2-х цветов, фрисби
 ```
