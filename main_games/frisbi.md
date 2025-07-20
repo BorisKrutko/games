@@ -1,4 +1,4 @@
-# Два флага
+# Фрисби
 
 <img width="450" height="226" alt="image" src="https://github.com/user-attachments/assets/7a142c67-42af-482d-a9e2-aa46450529cd" />
 
